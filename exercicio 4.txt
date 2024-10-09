@@ -1,0 +1,20 @@
+1, 3, 5, 7, ?
+Próximo número: 9
+Lógica: Números ímpares consecutivos, aumentando de 2 em 2.
+
+2, 4, 8, 16, ?
+Próximo número: 32
+Lógica: Cada número é o dobro do anterior (multiplicado por 2).
+
+3. 1, 4, 9, 16, ?
+Próximo número: 25
+Lógica: Quadrados perfeitos dos números naturais (1², 2², 3², 4², 5²).
+
+1, 1, 2, 3, 5, ?
+Próximo número: 8
+Lógica: Sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+
+3, 6, 12, 24, ?
+Próximo número: 48
+Lógica: Cada número é o dobro do anterior, começando com 3 (multiplicado por 2 a cada passo).
+

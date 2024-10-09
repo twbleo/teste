@@ -1,0 +1,13 @@
+K se torna 2, SOMA = 0 + 2 = 2
+K se torna 3, SOMA = 2 + 3 = 5
+K se torna 4, SOMA = 5 + 4 = 9
+K se torna 5, SOMA = 9 + 5 = 14
+K se torna 6, SOMA = 14 + 6 = 20
+K se torna 7, SOMA = 20 + 7 = 27
+K se torna 8, SOMA = 27 + 8 = 35
+K se torna 9, SOMA = 35 + 9 = 44
+K se torna 10, SOMA = 44 + 10 = 54
+K se torna 11, SOMA = 54 + 11 = 65
+K se torna 12, SOMA = 65 + 12 = 77
+K se torna 13, SOMA = 77 + 13 = 90
+O loop termina, mas a última soma (90 + 13) já foi realizada, resultando em 91
